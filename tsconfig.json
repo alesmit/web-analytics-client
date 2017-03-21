@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "target": "es5",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "removeComments": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
