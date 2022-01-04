@@ -1,3 +1,7 @@
+# Note
+
+⚠️ This project is no longer maintained.
+
 # Web Analytics Client Library
 
 This library has the basic features of **Google Analytics** library or of any similar web analytics tool.
