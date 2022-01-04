@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test page 2</title>
+</head>
+<body>
+
+<h1>Hello world again!</h1>
+<p>Also this page view has been tracked. Open the devtools for detail. <a href="index.html">Go to page 1</a></p>
+
+<script type="text/javascript">
+  (function(a, s, i, m, o, v, x){a['LibAnalytics']=o;a[o]=a[o]||function(){
+  (a[o].q=a[o].q||[]).push(arguments)},a[o].l=1*new Date();v=s.createElement(i),
+  x=s.getElementsByTagName(i)[0];v.async=1;v.src=m;x.parentNode.insertBefore(v,x)})
+  (window,document,'script','analytics.js','track');
+  track('setAccount', '12345678');
+  track('trackPageview');
+</script>
+
+</body>
+</html>

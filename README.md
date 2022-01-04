@@ -19,7 +19,7 @@ The following tracking code should be included in each page you want to keep tra
 
 ## Demo
 
-[See a demo here](https://alesmit.github.io/demo/web-analytics-client/index.html)
+[See a demo here](https://alesmit.github.io/web-analytics-client)
 
 Open the dev tools to see the `trackPageview` event data. The script tries to send data to http://localhost:3030/collect which should be the webhook endpoint exposed by data-collector service.
 
